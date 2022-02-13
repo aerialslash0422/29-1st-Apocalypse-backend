@@ -38,7 +38,8 @@
 - 상품 상세 정보 `Path Parameter` 수정  
 
 #### Cart API
-- 장바구니 조회(GET) 기능에서 `aggregate`를 이용한 장바구니에 담긴 상품의 가격 총 합계 구현 도움
+- 장바구니 추가(POST) 기능에서 `F object`를 통해 이미 Cart가 존재할 시 수량 +1 코드 구현
+- 장바구니 조회(GET) 기능에서 `aggregate` method를 이용한 장바구니에 담긴 상품의 가격 총 합계 구현
 
 #### Order API
 - 주문하기
