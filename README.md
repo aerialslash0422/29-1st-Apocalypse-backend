@@ -10,7 +10,7 @@
 - 기간 : 21.01.24 ~ 22.02.11
 - Frontend 4명 : 김기만, 박재형, 이화종, 홍지은
 - Backend  2명 : 김준영, 이강일
-
+[Backend Git Repository](https://github.com/wecode-bootcamp-korea/29-1st-Apocalypse-backend)
 [Frontend Git Repository](https://github.com/wecode-bootcamp-korea/29-1st-Apocalypse-frontend)
 
 ## 적용 기술 및 구현 기능
