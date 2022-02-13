@@ -18,7 +18,8 @@
 ## 적용 기술 및 구현 기능
 - `Frontend`       : JavaScript, React.js, SASS, React-router-dom
 - `Backend`        : Python, Django, MySQL, AWS(EC2, RDS, S3)
-- `협업 및 일정 관리` : Git, Github, Slack, Trello, Notion
+- `버전 관리`        : Git, Github  
+- `협업 및 일정 관리` : Slack, Trello, Notion
 
 
 ## Reference
