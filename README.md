@@ -47,3 +47,7 @@
 장바구니 Data를 들어와 주문/주문상품 Table에 추가(POST), 장바구니 Table Data 삭제(DELETE), Transaction을 통한 무결성 보장
 - 주문 내역 조회(GET)
 - 주문 취소(PATCH) - 주문/주문상품 Status 변경, Transaction을 통한 무결성 보장
+
+#### AWS
+- RDS 생성, `mysqldump`로 로컬DB dump 및 원격 host 서버에 삽입
+- EC2 인스턴스 생성 및 배포 
