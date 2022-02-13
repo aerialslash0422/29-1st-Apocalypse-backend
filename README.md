@@ -15,7 +15,7 @@
 
 [Frontend Git Repository](https://github.com/wecode-bootcamp-korea/29-1st-Apocalypse-frontend)
 
-## 적용 기술 및 구현 기능
+## 적용 기술 및 도구
 - `Frontend`       : JavaScript, React.js, SASS, React-router-dom
 - `Backend`        : Python, Django, MySQL, AWS(EC2, RDS, S3)
 - `버전 관리`        : Git, Github  
