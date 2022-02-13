@@ -26,6 +26,8 @@
 
 [db.diagram](https://dbdiagram.io/d/61ee2a5b7cf3fc0e7c59b78f)
 
+## 시연 영상
+[![프로젝트 구현 영상 링크](https://img.youtube.com/vi/rbnuJMyuUyM/sddefault.jpg)](https://www.youtube.com/watch?v=rbnuJMyuUyM)
 
 ## 프로젝트에서 내가 담당/작업했던 기능들
 
